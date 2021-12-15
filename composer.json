@@ -1,5 +1,5 @@
 {
-    "name": "grambas/dcc-verifier",
+    "name": "inwendo/dcc-verifier",
     "description": "Decode and verify digital COVID-19 certificate against germany signer trust list public key",
     "type": "library",
     "keywords": [
